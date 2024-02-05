@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@400;700&display=swap"
+        rel="stylesheet">
+  
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav>
+        <div class="container clearfix">
+            <div id="logo-box">
+                <a href="indexfl3rd.html" class="logo text-uppercase">
+                    Donnersberger Web-Map
+                </a>
+            </div>
+            <div id="nav-links" class="responsive">
+                <ul>
+                    <li class="nav-item text-uppercase nav-icon">
+                        <a href="#" class="nav-link">
+                            <i class="fa-solid fa-bars"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item text-uppercase">
+                        <a href="3dmap.html" class="nav-link">
+                            3D MAP
+                        </a>
+                    </li>
+                    <li class="nav-item text-uppercase">
+                        <a href="#" class="nav-link">
+                            BIM
+                        </a>
+                    </li>
+                    <li class="nav-item text-uppercase">
+                        <a href="#" class="nav-link">
+                            GIS
+                        </a>
+                    </li>
+                    <li class="nav-item text-uppercase">
+                        <a href="#" class="nav-link">
+                            Render
+                        </a>
+                    </li>
+                    <li class="nav-item text-uppercase">
+                        <a href="survey.html" class="nav-link">
+                            About
+                        </a>
+                    </li>
+                    <li class="nav-item text-uppercase">
+                        <a href="#" class="nav-link">
+                            Contact
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="containerSurvey">
+        <h2>Survey Form</h2>
+        <form id="surveyForm">
+            <label for="firstName">First Name:</label>
+            <input type="text" id="firstName" name="firstName" required>
+            <label for="lastName">Last Name:</label>
+            <input type="text" id="lastName" name="lastName" required>
+            <label for="dob">Date of Birth:</label>
+            <input type="date" id="dob" name="dob" required>
+            <label for="address">Address:</label>
+            <textarea id="address" name="address" required></textarea>
+
+
+            <label for="question1">What purpose do you use Donnersberger Bridge ?</label>
+            <select id="question1" name="question1"  required>
+                <option value="">Purpose</option>
+                <option value="GoingWork">Going work.</option>
+                <option value="GoingSchool">Going school.</option>
+                <option value="GoingOut">Going out.</option>
+            </select>
+
+            <label for="question2">What transportation type do you prefer when passing the bridge?</label>
+            <select id="question2" name="question2"  required>
+                <option value="">Types of transport</option>
+                <option value="Bicycle">Bicycle</option>
+                <option value="Car">Car</option>
+                <option value="PublicTransport">Public Transport</option>
+                <option value="Walking">Walking</option>
+            </select>
+
+            <label for="usageFrequency">How often do you use Donnersberger Brücke ?</label>
+            <select id="usageFrequency" name="usageFrequency" required>
+                <option value="">Select frequency</option>
+                <option value="almostEveryDay">Almost every day</option>
+                <option value="moreThan3TimesAWeek">More than 3 times a week</option>
+                <option value="onceAWeek">Once a week</option>
+                <option value="onceAMonth">Once a month</option>
+                <option value="almostNever">Almost never</option>
+            </select>
+
+            <label for="residencyDuration">How long have you lived in Munich?</label>
+            <select id="residencyDuration" name="residencyDuration" required>
+                <option value="">Select duration</option>
+                <option value="lessThan1Year">Less than 1 year</option>
+                <option value="2to3Years">2-3 years</option>
+                <option value="4to8Years">4-8 years</option>
+                <option value="9to15Years">9-15 years</option>
+                <option value="moreThan15Years">More than 15 years</option>
+            </select>
+            
+
+            <label for="question5">Question 5?</label>
+            <input type="text" id="question5" name="question5" required>
+
+            <label for="question6">Question 6?</label>
+            <input type="text" id="question6" name="question6" required>
+            <!-- Add more survey questions here -->
+            <button class="buttonSurvey" type="submit">Submit</button>
+        </form>
+    </div>
+    <script src="survey.js"></script>
+</body>
+
+</html>
