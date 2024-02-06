@@ -1,0 +1,1 @@
+console.log("Hey that's start script")
