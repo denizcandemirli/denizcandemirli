@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    background-color: #333;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+p{
+    padding: 1.6rem 0;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+
+
+header{
+    height: 46rem;
+    
+
+}
+header .bg-image {
+    position: absolute;
+    background-image: url(images/Donnersbergerbrücke.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 46rem;
+    width: 100%;
+    opacity: 0.75;
+    z-index: -1;
+}
+header h1{
+    padding: 12rem;
+    padding-bottom: 0;
+}
+.button{
+    display: inline-block;
+    background: #333;
+    color: #fff;
+    border: 1px solid #333;
+    padding: 1.6rem 3.2rem;
+    margin: .5rem 0;
+    transition: all 0.4s;
+}
+.button:hover{
+    background-color: #fff;
+    color: #333;
+}
+
+#section-a{
+    background-color: #eaeaea;
+    color: #333;
+    padding: 3.2rem 0;
+}
+#section-b{
+    padding: 2rem;
+}
+#section-b ul{
+    list-style: none;
+}
+#section-b li{
+    background: #fff;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+.col-content{
+    padding: 1.5rem;
+}
+#section-c{
+    padding: 2rem;
+}
+#section-c ul{
+    list-style: none;
+}
+#section-c li{
+    background: #fff;
+    color: #0856ae;
+    margin-bottom: 1.5rem;
+}
+.col-content{
+    padding: 1.5rem;
+}
+#section-d{
+    padding: 2rem;
+}
+#section-d ul{
+    list-style: none;
+}
+#section-d li{
+    background: #fff;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+.col-content{
+    padding: 1.5rem;
+}
+
+#section-e .box{
+    padding: 5rem;
+}
+#section-e .box:first-child{
+    background-color: darkslategray;
+}
+#section-f .box{
+    padding: 5rem;
+}
+#section-f .box:first-child{
+    background-color: rgb(38, 38, 38);
+}
+footer{
+    padding: 4rem;
+    background: black;
+}
+footer a{
+    color: rgb(0, 140, 255);
+}
+@media screen and (min-width:800px) {
+    html{
+        font-size: 9px;
+    }
+    
+}
+ @media screen and (min-width:1200px) {
+    html{
+        font-size: 11px;
+    }
+    
+ }
