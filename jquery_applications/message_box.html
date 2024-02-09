@@ -1,0 +1,70 @@
+<html>
+
+<head>
+    <title>JQuery</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #message-box {
+            background-color: darkcyan;
+            text-align: center;
+            color: white;
+        }
+
+        #header {
+            cursor: pointer;
+            height: 20px;
+            padding: 10px;
+            border-bottom: 1px solid white;
+        }
+
+        #content {
+            height: 200px;
+            padding: 10px;
+            display: none;
+        }
+
+        #close {
+            float: right;
+        }
+
+        #close:hover {
+            color: gray;
+        }
+    </style>
+    <script>
+        $(function () {
+            $("#header").click(function () {
+                $("#content").toggle("slow")
+            });
+            $("#close").click(function(){
+                $("#message-box").hide("slow")
+            });
+
+        });
+
+
+    </script>
+</head>
+
+<body>
+    <div id="message-box">
+
+        <div id="header">
+            <span id="close">X</span> You have a message !
+        </div>
+        <div id="content"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius aspernatur tenetur dignissimos,
+            voluptates corporis odit, porro rem ratione mollitia veniam aliquid quis exercitationem qui sunt cupiditate
+            inventore hic. Debitis recusandae pariatur ut! Recusandae est quasi dolorem veritatis debitis voluptatibus
+            ullam nostrum, possimus fugiat blanditiis, necessitatibus quos laboriosam porro excepturi hic!</div>
+    </div>
+
+</body>
+
+</html>

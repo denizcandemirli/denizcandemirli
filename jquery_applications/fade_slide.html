@@ -1,0 +1,70 @@
+<html>
+
+<head>
+    <title>JQuery</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+</head>
+
+<body>
+    <div>
+        <p>From Zero to Advance</p>
+        <img src="Render Light - TOP.jpg" width="150px">
+
+    </div>
+    <br><br>
+
+<button id="slideup">Slide Up</button>
+<button id="slidedown">Slide Down</button>
+<button id="toggle">Toggle</button>
+<br><br>
+
+<button id="fadein">Fade In</button>
+<button id="fadeout">Fade Out</button>
+<button id="fadeto">Fade To</button>
+<button id="fadetoggle">Fade Toggle</button>
+
+
+
+    <script>
+/*
+        $(document).ready(function(){
+            $("#slideup").click(function(){
+
+                $("div").slideUp(3000,function(){
+                    alert("Paragraph closed!");
+                });
+
+            });
+            $("#slidedown").click(function(){
+                $("div").slideDown(4000);
+            });
+            $("#toggle").click(function(){
+                $("div").slideToggle("slow");
+            })
+        });
+    */
+    $(document).ready(function(){
+            $("#fadein").click(function(){
+
+                $("div").fadeIn(3000,function(){
+                    alert("Paragraph closed!");
+                });
+
+            });
+            $("#fadeout").click(function(){
+                $("div").fadeOut(4000);
+            });
+            $("#fadeto").click(function(){
+                $("div").fadeTo(5000);
+            });
+            $("#fadetoggle").click(function(){
+                $("div").fadeToggle("slow");
+            });
+        });
+    </script>
+</body>
+
+</html>

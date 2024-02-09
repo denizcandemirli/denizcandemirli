@@ -1,0 +1,47 @@
+<html>
+
+<head>
+    <title>JQuery</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+
+<body>
+    <a href="#">Link1</a>
+    <h3 id="header">Order</h3>
+    <ul id="list">
+        <li class="item1">First</li>
+        <li>Second <a href="#">Link2</a></li>
+        <li>Third</li>
+
+    </ul>
+    <script>
+       //document.getElementById("header").style.color="blue";
+       
+       $("#header").css("color","orange");
+
+       $("#list a").css("text-decoration","none");
+
+       var styles={
+        color:"blue",
+        fontSize:"22px",
+        border:"1px solid gray",
+       }
+       $("ul li").css(styles);
+
+       var lists = document.querySelectorAll("li");
+
+       for(var i=0;i<lists.length;i++){
+        lists[i].style.color="red";
+       }
+       $("a").css({
+        color:"green",
+        fontSize:"16px",
+        border:"2px solid blue",
+       })
+
+    </script>
+</body>
+
+</html>

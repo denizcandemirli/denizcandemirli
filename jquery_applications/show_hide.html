@@ -1,0 +1,41 @@
+<html>
+
+<head>
+    <title>JQuery</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+</head>
+
+<body>
+<p>From Zero to Advance</p>
+
+<button id="hide">Hide</button>
+<button id="show">Show</button>
+<button id="toggle">Toggle</button>
+
+
+
+    <script>
+
+        $(document).ready(function(){
+            $("#hide").click(function(){
+
+                $("p").hide(2000,function(){
+                    alert("Paragraph closed!");
+                });
+
+            });
+            $("#show").click(function(){
+                $("p").show(4000);
+            });
+            $("#toggle").click(function(){
+                $("p").toggle("fast");
+            })
+        });
+    
+    </script>
+</body>
+
+</html>

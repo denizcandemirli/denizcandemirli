@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <title>JQuery</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        v 
+
+    </head>
+
+<body>
+    <a href="#">Link1</a>
+    <h3 id="header">Order</h3>
+    <ul id="list">
+        <li class="item1">First</li>
+        <li>Second <a href="#">Link2</a></li>
+        <li>Third</li>
+
+    </ul>
+    <input id="name" type="text" placeholder="Add Name">
+    <input id="surname" type="text" placeholder="Add Surname">
+    <button id="sign-up" onclick="signup();">Sing Up</button>
+
+    <script>
+
+     /*console.log($("h3").text());
+     console.log($("ul li").text());
+     */
+     $("h3").text("Udemy Courses");
+
+     function signup(){
+        var name = $("#name").val();
+        var surname = $("#surname").val();
+
+        console.log(name+" "+surname+" "+ "Added to course!");
+
+        $("#name").addClass("highlight");
+        $("#name").removeClass("highlight");
+
+     }
+
+    </script>
+</body>
+
+</html>
