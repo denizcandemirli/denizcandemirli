@@ -6,8 +6,12 @@ denizcandemirli/denizcandemirli is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 My Latest Project : ITBE Fusion Lab Web Application - Ifc Model Web Viewer
+<img width="1278" alt="Screenshot 2024-02-26 013121" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/0e95708f-1310-4eb1-9c9a-ebde75c81ff7">
+<img width="538" alt="Screenshot 2024-02-26 012803" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/461ec1ce-1e99-4d21-8a2c-2d2c437992cd">
 
-<img width="1278" alt="Screenshot 2024-02-26 013121" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/e37f0a49-a387-41e0-a343-82d<img width="538" alt="Screenshot 2024-02-26 012803" 
+
+
+
 
 Different aspects of the project -->
 
