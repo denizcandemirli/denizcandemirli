@@ -2,9 +2,7 @@
 - 👀 I’m interested in frontend and backend systems, full-stack developing and distributed cloud-computing technologies.
 - 🌱 I’m currently learning Information Technologies for the Built Environment M.Sc. in Technical University of Munich.
 - 📫 How to reach me : demirlidenizcan@gmail.com
-denizcandemirli/denizcandemirli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 My Latest Project : ITBE Fusion Lab Web Application - Ifc Model Web Viewer
 <img width="1278" alt="Screenshot 2024-02-26 013121" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/0e95708f-1310-4eb1-9c9a-ebde75c81ff7">
 <img width="538" alt="Screenshot 2024-02-26 012803" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/461ec1ce-1e99-4d21-8a2c-2d2c437992cd">
