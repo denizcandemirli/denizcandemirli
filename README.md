@@ -4,23 +4,23 @@
 - 📫 How to reach me : demirlidenizcan@gmail.com
 
 My Latest Project : ITBE Fusion Lab "Web Application for Ifc Model Web Viewer"
-<img width="538" alt="Screenshot 2024-02-26 012803" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/09c60f98-c762-478b-9688-5ed6cfb77659">
-<img width="860" alt="Screenshot 2024-02-26 012826" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/241b3747-1103-49ca-91d0-09c49bfd0b28">
+<img width="400" alt="Screenshot 2024-02-26 012803" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/09c60f98-c762-478b-9688-5ed6cfb77659">
+<img width="400" alt="Screenshot 2024-02-26 012826" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/241b3747-1103-49ca-91d0-09c49bfd0b28">
 
 3D Web Map Development with CesiumJS : 
-<img width="1239" alt="Screenshot 2024-02-24 154132" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/2e324595-e486-4994-a8dc-1e9b2ea4315e">
-<img width="1239" alt="Screenshot 2024-02-24 154059" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/684f1632-8197-45c7-b900-adaddcb58bc6">
+<img width="400" alt="Screenshot 2024-02-24 154132" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/2e324595-e486-4994-a8dc-1e9b2ea4315e">
+<img width="400" alt="Screenshot 2024-02-24 154059" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/684f1632-8197-45c7-b900-adaddcb58bc6">
 
 IFC Model Design on Revit:
-<img width="741" alt="Screenshot 2024-02-20 030652" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/5ad0d291-d286-4bc7-9801-b1bfe944b12a">
+<img width="400" alt="Screenshot 2024-02-20 030652" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/5ad0d291-d286-4bc7-9801-b1bfe944b12a">
 
 Generated CityGML of the IFC and the .shp of existing bridge:
-<img width="555" alt="Screenshot 2024-02-20 144115" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/90fcfe88-30d1-4761-b4e5-445851af259a">
-<img width="502" alt="Screenshot 2024-02-20 142504" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/6fae8304-aa6e-42f2-a861-761c250bbea6">
+<img width="400" alt="Screenshot 2024-02-20 144115" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/90fcfe88-30d1-4761-b4e5-445851af259a">
+<img width="400" alt="Screenshot 2024-02-20 142504" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/6fae8304-aa6e-42f2-a861-761c250bbea6">
 
 Different aspects of the project -->
 
- <img width="831" alt="Screenshot 2024-02-26 013132" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/cc90e9a5-1890-4641-8898-03d8eb79fe75">
+ <img width="400" alt="Screenshot 2024-02-26 013132" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/cc90e9a5-1890-4641-8898-03d8eb79fe75">
 
 Watch my render video! -->
 
