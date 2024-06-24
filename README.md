@@ -5,10 +5,10 @@
 
 My Latest Project : ITBE Fusion Lab "Web Application for Ifc Model Web Viewer"
 
-<img width="400" alt="Screenshot 2024-02-26 013121" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c6457a79-cacf-4c04-ab15-fe0155e7d71b">
-<img width="400" alt="Screenshot 2024-02-26 012846" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c559a47e-d3c5-47b2-b051-0f75a3dafe8b">
-<img width="400" alt="Screenshot 2024-02-26 012826" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/241b3747-1103-49ca-91d0-09c49bfd0b28">
-<img width="400" alt="Screenshot 2024-02-26 013218" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/8b836187-d3fd-4568-a85a-60348d5e1d0a">
+<img width="400" height="200" alt="Screenshot 2024-02-26 013121" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c6457a79-cacf-4c04-ab15-fe0155e7d71b">
+<img width="400" height="200" alt="Screenshot 2024-02-26 012846" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c559a47e-d3c5-47b2-b051-0f75a3dafe8b">
+<img width="400" height="200" alt="Screenshot 2024-02-26 012826" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/241b3747-1103-49ca-91d0-09c49bfd0b28">
+<img width="400" height="200" alt="Screenshot 2024-02-26 013218" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/8b836187-d3fd-4568-a85a-60348d5e1d0a">
 
 
 
