@@ -8,6 +8,7 @@ My Latest Project : ITBE Fusion Lab "Web Application for Ifc Model Web Viewer"
 
 <img width="400" alt="Screenshot 2024-02-26 012803" length="400" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/09c60f98-c762-478b-9688-5ed6cfb77659">
 
+<img width="400" alt="Screenshot 2024-02-26 012846" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c559a47e-d3c5-47b2-b051-0f75a3dafe8b">
 <img width="400" alt="Screenshot 2024-02-26 012826" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/241b3747-1103-49ca-91d0-09c49bfd0b28">
 
 
