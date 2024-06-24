@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Information Technologies for the Built Environment M.Sc. in Technical University of Munich.
 - 📫 How to reach me : demirlidenizcan@gmail.com
 
-My Latest Project : "Web Application for Ifc Model Web Viewer" -  ITBE Fusion Lab 
+- My Latest Project : "Web Application for Ifc Model Web Viewer" -  ITBE Fusion Lab 
 
 <img width="400" height="300" alt="Screenshot 2024-02-26 013121" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c6457a79-cacf-4c04-ab15-fe0155e7d71b">
 <img width="400" height="300" alt="Screenshot 2024-02-26 012846" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c559a47e-d3c5-47b2-b051-0f75a3dafe8b">
@@ -13,7 +13,7 @@ My Latest Project : "Web Application for Ifc Model Web Viewer" -  ITBE Fusion La
 
 
 
-3D Web Map Development with CesiumJS : 
+- 3D Web Map Development with CesiumJS : 
 
 
 <img width="400" height="300" alt="Screenshot 2024-02-24 154132" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/2e324595-e486-4994-a8dc-1e9b2ea4315e">
@@ -22,14 +22,14 @@ My Latest Project : "Web Application for Ifc Model Web Viewer" -  ITBE Fusion La
 
 
 
-IFC Model Design on Revit:
+- IFC Model Design on Revit:
 
 
 <img width="400" height="300" alt="Screenshot 2024-02-20 030652" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/5ad0d291-d286-4bc7-9801-b1bfe944b12a">
 
 
 
-Generated CityGML of the IFC and the .shp of existing bridge:
+- Generated CityGML of the IFC and the .shp of existing bridge:
 
 
 <img width="400" height="300" alt="Screenshot 2024-02-20 144115" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/90fcfe88-30d1-4761-b4e5-445851af259a">
@@ -39,7 +39,7 @@ Generated CityGML of the IFC and the .shp of existing bridge:
 
 
 
-Different aspects of the project -->
+- Different aspects of the project -->
 
 
  <img width="400" height="300" alt="Screenshot 2024-02-26 013132" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/cc90e9a5-1890-4641-8898-03d8eb79fe75">
@@ -47,7 +47,7 @@ Different aspects of the project -->
 
  
 
-Watch my render video! -->
+- Watch my render video! 👀 -->
 
 https://www.youtube.com/watch?v=f82vfcbySz4
 
