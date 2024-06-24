@@ -59,10 +59,7 @@ Render Photos! -->
 
 - ⚡ Fun fact: Storyboard according to the digital participation part of the project.
 
-<img width="902" alt="Screenshot 2024-02-26 040326" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/53cf079d-3289-4f5a-972b-7f828d6c319e">
-
-
-- 
+<img width="900" height="450" alt="Screenshot 2024-02-26 040326" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/53cf079d-3289-4f5a-972b-7f828d6c319e">
 
 
 <!---
