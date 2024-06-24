@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Information Technologies for the Built Environment M.Sc. in Technical University of Munich.
 - 📫 How to reach me : demirlidenizcan@gmail.com
 
-My Latest Project : ITBE Fusion Lab "Web Application for Ifc Model Web Viewer"
+My Latest Project : "Web Application for Ifc Model Web Viewer" -  ITBE Fusion Lab 
 
 <img width="400" height="300" alt="Screenshot 2024-02-26 013121" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c6457a79-cacf-4c04-ab15-fe0155e7d71b">
 <img width="400" height="300" alt="Screenshot 2024-02-26 012846" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/c559a47e-d3c5-47b2-b051-0f75a3dafe8b">
