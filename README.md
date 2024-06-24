@@ -43,6 +43,7 @@ Different aspects of the project -->
 
 
  <img width="400" height="300" alt="Screenshot 2024-02-26 013132" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/cc90e9a5-1890-4641-8898-03d8eb79fe75">
+ <img width="400" height="300" alt="Screenshot 2024-02-26 013152" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/a5d31822-5425-40a7-a42c-24e91e3da7f5">
 
  
 
