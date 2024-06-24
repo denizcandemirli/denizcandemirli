@@ -53,8 +53,8 @@ https://www.youtube.com/watch?v=f82vfcbySz4
 
 Render Photos! --> 
 
-![renderheli](https://github.com/denizcandemirli/denizcandemirli/assets/159064259/6fda53fa-cd18-4c3a-85dc-6c0b409b71d8)!
-[renderforwebsite](https://github.com/denizcandemirli/denizcandemirli/assets/159064259/15297f5f-13da-4b2d-846b-32ee4407ce19)
+![renderheli](https://github.com/denizcandemirli/denizcandemirli/assets/159064259/6fda53fa-cd18-4c3a-85dc-6c0b409b71d8)
+![renderforwebsite](https://github.com/denizcandemirli/denizcandemirli/assets/159064259/15297f5f-13da-4b2d-846b-32ee4407ce19)
 
 
 - ⚡ Fun fact: Storyboard according to the digital participation part of the project.
