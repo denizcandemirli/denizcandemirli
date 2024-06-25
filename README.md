@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @denizcandemirli
 - 👀 I’m interested in Semantic Web Technologies, full-stack development and distributed computing technologies.
 - 🌱 I’m currently learning Information Technologies for the Built Environment M.Sc. in Technical University of Munich.
+- ⚡ I'm in the process of developing my personal website. Stay tuned for updates! -->   https://dcdwebsite.vercel.app/
 - 📫 How to reach me : demirlidenizcan@gmail.com
   
 - My Latest Project : "Web Application for Ifc Model Web Viewer" -  ITBE Fusion Lab 
@@ -61,5 +62,4 @@ Render Photos! -->
 
 <img width="900" height="450" alt="Screenshot 2024-02-26 040326" src="https://github.com/denizcandemirli/denizcandemirli/assets/159064259/53cf079d-3289-4f5a-972b-7f828d6c319e">
 
-- ⚡ I'm currently working on my own individual web page which is under development. --> https://dcdwebsite.vercel.app/
 <!---
